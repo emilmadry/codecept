@@ -1,0 +1,27 @@
+{
+  "name": "codeceptexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "codeceptjs": "^1.2.1",
+    "webdriverio": "^4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilmadry/codecept.git"
+  },
+  "keywords": [
+    "codecept"
+  ],
+  "author": "emil.madry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilmadry/codecept/issues"
+  },
+  "homepage": "https://github.com/emilmadry/codecept#readme"
+}
